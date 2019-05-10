@@ -13,7 +13,17 @@ Etapa 2
 El DEMOQE128 flitra e identifica las señales el ancho de banda completo va desde 80 Hz a 400 Hz que corresponen a la frecuencia mas baja de la 6ta cuerda de la guitarra y la frecuencia mas alta que es la 1ra cuerda de la guitarra, la tarjeta de desarrollo en cuestion.
 
 Etapa 3
-Por definir, tentativamente se utiliza el mismo protocolo de la parte 1 del laboratorio de proyectos.
+protocolo Por definir, tentativamente se utiliza el mismo protocolo de la parte 1 del laboratorio de proyectos, ademas del valor o frecuencia de la señal, se enviara por este protocolo la adquisicion de un sensor acelerometro que medira la inclinacion para actuar como Wah y un canal digial para activar la distorcion.
 
 Etpaa 4
-En processing se hara una interface que 
+En processing se hara una interface que tendra grabados sonidos midi corerspondientes a el Riff de una cancion, y se asignaran cuerdas a esta secuencia de sonidos, en la medida que se toquen las cuerdas segun lo indica la pantalla se reproduciran los sonidos dando la impresion de que el usuario esta tocando la cancio, habra ademas un sonido en especial para cuando se falle la cuerda esperada para indiicar el fallo.
+
+
+
+Sensores 
+
+ SparkFun Electret Microphone Breakout
+ Acelerometro Provisto por el laboratorio
+ Pulsador
+ 
+ 
