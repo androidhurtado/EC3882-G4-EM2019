@@ -23,7 +23,11 @@ En processing se hara una interface que tendra grabados sonidos midi corerspondi
 Sensores 
 
  SparkFun Electret Microphone Breakout
+ Esta placa tiene embebido el microfono CEM-C9745JAD462P2.54R , un microfono omnidireccional con voltaje de operacion de 1 a 10 VDC y un rango de frecuencia de 100 a 10.000 Hz y adicionalmente está el circuito de amplificacion y OPA344 que opera de 2.5VDC hasta 4.5VDC lo que lo hace compatible con la aplicacion.
+ 
+ 
  Acelerometro Provisto por el laboratorio
+ 
+ 
  Pulsador
- 
- 
+ Un pulsador NC que activara por bajo un canal digital de la etapa de adquisicion (DEMOQUE128)
