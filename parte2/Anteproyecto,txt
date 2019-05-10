@@ -1,0 +1,19 @@
+Nombre del proyecto: Guitar HeroesUSB
+Integrantes: Daniela Rivas
+Manuel Hurtado
+
+Descripcion:
+
+Mediante el uso de un microfono se adquiriran señales provenientes de una guitarra acustica o electroacustica, se utilizara un microfono que esta aun por definir segun materiales disponibles en el laboratorio.
+
+Etapa 1
+el microfono capta la señaal y se amplifica
+
+Etapa 2 
+El DEMOQE128 flitra e identifica las señales el ancho de banda completo va desde 80 Hz a 400 Hz que corresponen a la frecuencia mas baja de la 6ta cuerda de la guitarra y la frecuencia mas alta que es la 1ra cuerda de la guitarra, la tarjeta de desarrollo en cuestion.
+
+Etapa 3
+Por definir, tentativamente se utiliza el mismo protocolo de la parte 1 del laboratorio de proyectos.
+
+Etpaa 4
+En processing se hara una interface que 
